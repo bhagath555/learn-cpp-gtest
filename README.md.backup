@@ -11,4 +11,4 @@
 	
 
 ## Setting up:
-Now, to install C++ compiler MinGW via MSYS and C/C++ extension in VSCode, VScode official website contained instructions to follow  [VSC setup](https://code.visualstudio.com/docs/cpp/config-mingw). But, this is not an entire setup for our requirement, there are few more installation/configuration procedures to follow.
+Now, to install C++ compiler MinGW via MSYS and C/C++ extension in VSCode, VScode official website contained instructions to follow  [VSC setup](https://code.visualstudio.com/docs/cpp/config-mingw). But, this is not an entire setup for our requirement, there are few more installation/configuration procedures to follow. Inord 
