@@ -1,0 +1,28 @@
+Start testing: Jul 25 09:17 India Standard Time
+----------------------------------------------------------
+1/1 Testing: AllFactTest
+1/1 Test: AllFactTest
+Command: "C:/Users/kisho/Dropbox (Personal)/PC/Documents/GitHub/learn-cpp-gtest/build/unittest.exe"
+Directory: C:/Users/kisho/Dropbox (Personal)/PC/Documents/GitHub/learn-cpp-gtest/build
+"AllFactTest" start time: Jul 25 09:17 India Standard Time
+Output:
+----------------------------------------------------------
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from maths
+[ RUN      ] maths.m_add
+[       OK ] maths.m_add (0 ms)
+[----------] 1 test from maths (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"AllFactTest" end time: Jul 25 09:17 India Standard Time
+"AllFactTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jul 25 09:17 India Standard Time

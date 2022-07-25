@@ -1,0 +1,4 @@
+C:/Users/kisho/Dropbox (Personal)/PC/Documents/GitHub/learn-cpp-gtest/build/CMakeFiles/unittest.dir
+C:/Users/kisho/Dropbox (Personal)/PC/Documents/GitHub/learn-cpp-gtest/build/CMakeFiles/test.dir
+C:/Users/kisho/Dropbox (Personal)/PC/Documents/GitHub/learn-cpp-gtest/build/CMakeFiles/edit_cache.dir
+C:/Users/kisho/Dropbox (Personal)/PC/Documents/GitHub/learn-cpp-gtest/build/CMakeFiles/rebuild_cache.dir

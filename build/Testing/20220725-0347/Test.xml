@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20220725-0347-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.24.0-rc4"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Windows"
+	Hostname="LAPTOP-SL8T2KPL"
+	OSRelease=" Personal"
+	OSVersion=" (Build 22000)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="12"
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="2"
+	TotalVirtualMemory="11034"
+	TotalPhysicalMemory="7834"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2995"
+	>
+	<Testing>
+		<StartDateTime>Jul 25 09:17 India Standard Time</StartDateTime>
+		<StartTestTime>1658720875</StartTestTime>
+		<TestList>
+			<Test>./AllFactTest</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>AllFactTest</Name>
+			<Path>.</Path>
+			<FullName>./AllFactTest</FullName>
+			<FullCommandLine>"C:\Users\kisho\Dropbox (Personal)\PC\Documents\GitHub\learn-cpp-gtest\build\unittest.exe"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0451655</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>"C:\Users\kisho\Dropbox (Personal)\PC\Documents\GitHub\learn-cpp-gtest\build\unittest.exe"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyNUEEKwjAQvOcVe7SHBH2AB0HxIFhp8RSCRBK10Gwk2ej3rQZLK4jOadkZZmdHznsoqBJig2eYAdlIcAreveeYGrKCSd5Dwbr1R91m3uKtCR6dxU5riafrh3jo6TRdIpNQ7bfwgsor4Q7amI7IKDdjAiZTcLH44ZtVQJ50W7D/EpPVgRt/RyaHfXzrAYJGMb7TZd4t6nq1fD6TtYI9ABwMZ80=</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Jul 25 09:17 India Standard Time</EndDateTime>
+		<EndTestTime>1658720875</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
