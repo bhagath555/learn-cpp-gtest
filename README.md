@@ -57,4 +57,6 @@ Please raise an issue in the repo, if you
 * are unable to configure your windows system for C/C++ project development.
 * would like to know more about cmake or gtest or anything related C++.
 
-I have gather all this information by browsing in other github projects and stackoverflow questions. Please do you sugeest any of the useful source that helps in widening the C++ knowledge.
+I have gather all this information by browsing all over the internet i.e. other github repositories and stackoverflow questions. We can find solution for any problem that we may encounter in programming, but those solutions are scattered all around the internet. So, I thought it good to have all the thing at one place. That's why came up with this repository idea. To improve this repository by adding any additions resources, please do suggest modifications/suggestions that helps in widening the C++ knowledge of all.
+
+Bhagath Mamindlapelly
