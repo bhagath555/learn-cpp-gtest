@@ -50,6 +50,7 @@ This is simple gtest that tested `m_add` function in the maths.h file. WIth this
 
 `(unittest test_trial.cpp)`
 
+## Authors note: 
 This is just a initial stage of this documentation process. I would like to add even more detailed explaination about gtest and various functionalities avialable within it. 
 
 Please raise an issue in the repo, if you
